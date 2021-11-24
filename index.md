@@ -62,11 +62,15 @@ Coming soon...
 
 - [2021.9-now] 
 
-  M.E. in	<a href="https://english.nudt.edu.cn/">NUDT</a>	Supervisor: Prof. [Xinwang Liu](https://xinwangliu.github.io/)
+  M.E. in <a href="https://english.nudt.edu.cn/">National University of Defense Technology (NUDT)</a>. 
+
+  Supervisor: Prof. [Xinwang Liu](https://xinwangliu.github.io/)
 
 - [2017.9-2021.6] 
 
-  B.E. in	<a href="https://www.neuq.edu.cn/">NEUQ</a>	Supervisor: A.P. Miao Fang
+  B.E. in <a href="https://www.neuq.edu.cn/">NorthEastern University at Qinhuangdao (NEUQ)</a>. 
+
+  Supervisor: A.P. Miao Fang
 
 
 
