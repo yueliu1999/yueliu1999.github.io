@@ -39,21 +39,7 @@ a {
   text-decoration:none;
 }
 
-a:hover, a:focus {
-  color:#069;
-  font-weight: bold;
-}
 
-a small {
-  font-size:11px;
-  color:#777;
-  margin-top:-0.3em;
-  display:block;
-}
-
-a:hover small {
-  color:#777;
-}
 
 .wrapper {
   width:860px;
@@ -86,9 +72,9 @@ table {
 }
 
 th, td {
-  text-align:left;
-  padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
+    text-align: justify;
+    padding: 5px 10px;
+    border-bottom: 1px solid #e5e5e5;
 }
 
 dt {
