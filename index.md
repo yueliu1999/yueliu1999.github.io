@@ -70,7 +70,6 @@ Coming soon...
 # Award
 
 - [2021] Outstanding graduate of Hebei province. \[[pdf](./assets/img/award/Outstanding graduate.pdf)]
-
 - [2019-2020] National Scholarship, Ministry of Education of the People’s Republic of China. \[[pdf](./assets/img/award/National Scholarship 2020.pdf)]
 - [2020] Meritorious Winner, Interdisciplinary Contest In Modeling (ICM). \[[pdf](./assets/img/award/ICM.pdf)]
 - [2018] First prize, Hebei Mathematics Competition for College Students (HMC) \[[pdf](./assets/img/award/HMC.pdf)]
