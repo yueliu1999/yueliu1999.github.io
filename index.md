@@ -40,13 +40,13 @@ Coming soon...
 
 # Intern Experience
 
+- [2020.8-2021.3]
 
 
 
 
 
-
-# Research Interests
+# Research Interest
 
 - Graph Neural Network
 - Deep Clustering 
@@ -60,8 +60,13 @@ Coming soon...
 
 # Education
 
-- [2021.9-now] M.E.	in <a href="https://english.nudt.edu.cn/">National University of Defense Technology (NUDT) </a>	Supervisor: Prof. [Xinwang Liu](https://xinwangliu.github.io/)
-- [2021.9-now] B.E.     in <a href="https://www.neuq.edu.cn/">Northeastern University at Qinhuangdao (NEUQ)</a>        Supervisor: A.P. Miao Fang
+- [2021.9-now] 
+
+  M.E. in	<a href="https://english.nudt.edu.cn/">NUDT</a>	Supervisor: Prof. [Xinwang Liu](https://xinwangliu.github.io/)
+
+- [2017.9-2021.6] 
+
+  B.E. in	<a href="https://www.neuq.edu.cn/">NEUQ</a>	Supervisor: A.P. Miao Fang
 
 
 
@@ -69,13 +74,20 @@ Coming soon...
 
 # Award
 
-- [2021] Outstanding graduate of Hebei province. \[[pdf](./assets/img/award/Outstanding graduate.pdf)]
+- [2021] Outstanding Graduate of Hebei Province. \[[pdf](./assets/img/award/Outstanding graduate.pdf)]
 - [2019-2020] National Scholarship, Ministry of Education of the People’s Republic of China. \[[pdf](./assets/img/award/National Scholarship 2020.pdf)]
-- [2020] Meritorious Winner, Interdisciplinary Contest In Modeling (ICM). \[[pdf](./assets/img/award/ICM.pdf)]
-- [2018] First prize, Hebei Mathematics Competition for College Students (HMC) \[[pdf](./assets/img/award/HMC.pdf)]
-- [2017-2019] Scholarship, Northeastern University at Qinhuangdao. \[[pdf](./assets/img/award/Scholarship.pdf)]
+- [2020] Meritorious Winner, Interdisciplinary Contest in Modeling (ICM). \[[pdf](./assets/img/award/ICM.pdf)]
+- [2018] First Prize, Hebei Mathematics Competition for College Students (HMC) \[[pdf](./assets/img/award/HMC.pdf)]
+- [2017-2019] Scholarship, NEUQ. \[[pdf](./assets/img/award/Scholarship.pdf)]
 
 
+
+
+
+# Friendship Link
+
+- [Sihang Zhou](https://sihangzhou.github.io/)
+- [Wenxuan Tu](https://wxtu.github.io/)
 
 
 
