@@ -247,7 +247,7 @@ footer {
 
 @media print, screen and (max-width: 720px) {
   body {
-    word-wrap:break-word;
+    word-wrap:break-all;
   }
 
   header {
@@ -258,9 +258,9 @@ footer {
     position:static;
   }
 
-  pre, code {
-    word-wrap:normal;
-  }
+    pre, code {
+        word-wrap: break-all;
+    }
 }
 
 @media print, screen and (max-width: 480px) {
