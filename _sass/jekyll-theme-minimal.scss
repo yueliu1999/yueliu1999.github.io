@@ -1,6 +1,7 @@
 @import "fonts";
 @import "rouge-github";
 
+
 body {
   background-color: #fff;
   padding:50px;
@@ -105,10 +106,11 @@ kbd {
 }
 
 header {
-  width:270px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+    width: 270px;
+    float: left;
+    position: fixed;
+    -webkit-font-smoothing: subpixel-antialiased;
+    text-align: justify;
 }
 
 ul.downloads {
@@ -137,13 +139,13 @@ ul.downloads {
 }
 
 .downloads a {
-  line-height:1;
-  font-size:11px;
-  color:#676767;
-  display:block;
-  text-align:center;
-  padding-top:6px;
-  height:34px;
+    line-height: 1;
+    font-size: 11px;
+    color: #676767;
+    display: block;
+    text-align: justify;
+    padding-top: 6px;
+    height: 34px;
 }
 
 .downloads a:hover, .downloads a:focus {
