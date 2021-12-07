@@ -8,7 +8,7 @@ Yue Liu (刘悦) is now pursuing his master degree in <a href="https://www.nudt.
 
 # News
 
-- [<font color="#FF0000">Dec 1, 2021</font>] "**Deep Graph Clustering via Dual Correlation Reduction**" has been accepted by [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/).
+- **[<font color="#FF0000">Dec 1, 2021</font>]** "**Deep Graph Clustering via Dual Correlation Reduction**" has been accepted by [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/).
 
  
 
@@ -24,7 +24,7 @@ Coming soon...
 
 ### Conferences: 
 
-1. **[<font color="#0000FF">AAAI</font>]** **Yue Liu**, Wenxuan Tu, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, En Zhu: *Deep Graph Clustering via Dual Correlation Reduction*. [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/). (CCF Rank A)
+1. **[<font color="#0000FF">AAAI</font>]** **Yue Liu**, Wenxuan Tu, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, En Zhu: *Deep Graph Clustering via Dual Correlation Reduction*. [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/). (CCF Rank A) \[[paper]()|[code]()]
 
 
 
