@@ -8,7 +8,7 @@ Yue Liu (刘悦) is now pursuing his master degree in <a href="https://www.nudt.
 
 # News
 
-- **[<font color="#FF0000">Dec 1, 2021</font>]** "**Deep Graph Clustering via Dual Correlation Reduction**" has been accepted by [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/).
+- **[<font color="#FF0000">2021.12</font>]** "**Deep Graph Clustering via Dual Correlation Reduction**" has been accepted by [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/).
 
  
 
@@ -24,7 +24,7 @@ Coming soon...
 
 ### Conferences: 
 
-- **[<font color="#0000FF">AAAI</font>]** **Yue Liu**, Wenxuan Tu, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, En Zhu: *Deep Graph Clustering via Dual Correlation Reduction*. [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/). (CCF Rank A) \[[paper](https://yueliu1999.github.io/)\|[code](https://yueliu1999.github.io/)]
+- **<font color="#0000FF">[AAAI]</font>** **Yue Liu**, Wenxuan Tu, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, En Zhu: *Deep Graph Clustering via Dual Correlation Reduction*. [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/). (CCF Rank A) \[[paper](https://yueliu1999.github.io/)\|[code](https://yueliu1999.github.io/)]
 
 
 
@@ -36,6 +36,10 @@ Coming soon...
 
 - Awesome Deep Graph Clustering \[[Github](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)]
 
+  <div  align="center">    
+      <img src="./assets/img/adgc.png" width=60% />
+  </div>
+
 
 
 
@@ -44,7 +48,7 @@ Coming soon...
 
 # Intern Experience
 
-- [2020.8-2021.3]
+- **[2020.8-2021.3]**
 
 
 
@@ -64,13 +68,13 @@ Coming soon...
 
 # Education
 
-- [2021.9-now] 
+- **[2021.9-now]** 
 
   M.E. in <a href="https://english.nudt.edu.cn/">National University of Defense Technology (NUDT)</a>. 
 
   Supervisor: Prof. [Xinwang Liu](https://xinwangliu.github.io/)
 
-- [2017.9-2021.6] 
+- **[2017.9-2021.6]** 
 
   B.E. in <a href="https://www.neuq.edu.cn/">NorthEastern University at Qinhuangdao (NEUQ)</a>. 
 
@@ -82,11 +86,11 @@ Coming soon...
 
 # Award
 
-- [2021] Excellent Graduated Graduate Student of Hebei Province. \[[pdf](./assets/img/award/Outstanding graduate.pdf)]
-- [2019-2020] National Scholarship, Ministry of Education of the People’s Republic of China. \[[pdf](./assets/img/award/National Scholarship 2020.pdf)]
-- [2020] Meritorious Winner, Interdisciplinary Contest in Modeling (ICM). \[[pdf](./assets/img/award/ICM.pdf)]
-- [2018] First Prize, Hebei Mathematics Competition for College Students (HMC) \[[pdf](./assets/img/award/HMC.pdf)]
-- [2017-2019] Scholarship, NEUQ. \[[pdf](./assets/img/award/Scholarship.pdf)]
+- **[2021]** Excellent Graduated Graduate Student of Hebei Province. \[[pdf](./assets/img/award/Outstanding graduate.pdf)]
+- **[2019-2020]** National Scholarship, Ministry of Education of the People’s Republic of China. \[[pdf](./assets/img/award/National Scholarship 2020.pdf)]
+- **[2020]** Meritorious Winner, Interdisciplinary Contest in Modeling (ICM). \[[pdf](./assets/img/award/ICM.pdf)]
+- **[2018]** First Prize, Hebei Mathematics Competition for College Students (HMC) \[[pdf](./assets/img/award/HMC.pdf)]
+- **[2017-2019]** Scholarship, NEUQ. \[[pdf](./assets/img/award/Scholarship.pdf)]
 
 
 
