@@ -82,6 +82,7 @@ Coming soon...
 # Award
 
 - **[2021]** Excellent Graduated Graduate Student of Hebei Province. \[[pdf](./assets/img/award/Outstanding graduate.pdf)]
+- **[2020]** Recommendation for admission to NUDT.  \[[pdf](./assets/img/award/Recommendation.pdf)]
 - **[2019-2020]** National Scholarship, Ministry of Education of the People’s Republic of China. \[[pdf](./assets/img/award/National Scholarship 2020.pdf)]
 - **[2020]** Meritorious Winner, Interdisciplinary Contest in Modeling (ICM). \[[pdf](./assets/img/award/ICM.pdf)]
 - **[2018]** First Prize, Hebei Mathematics Competition for College Students (HMC) \[[pdf](./assets/img/award/HMC.pdf)]
