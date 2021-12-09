@@ -36,8 +36,10 @@ Coming soon...
 
 - Awesome Deep Graph Clustering \[[Github](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)]
 
+  <img src="./assets/img/adgc.png" alt="adgc" style="zoom:30%;" />
 
-<img src="./assets/img/adgc.png" alt="adgc" style="zoom:40%;" />
+
+
 
 
 
