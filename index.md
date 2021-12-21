@@ -47,6 +47,8 @@ Coming soon...
 
 - **[2020.8-2021.3]**
 
+  3D Vision Algorithm Engineer[[Github](https://github.com/yueliu1999/3d-vision)]
+
 
 
 
