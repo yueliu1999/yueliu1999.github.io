@@ -24,7 +24,7 @@ Coming soon...
 
 ### Conferences: 
 
-- **<font color="#0000FF">[AAAI]</font>** **Yue Liu**, Wenxuan Tu, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, En Zhu: *Deep Graph Clustering via Dual Correlation Reduction*. [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/). (CCF Rank A) \[[paper](https://yueliu1999.github.io/)\|[code](https://github.com/yueliu1999/DCRN)]
+- **<font color="#0000FF">[AAAI]</font>** **Yue Liu**, Wenxuan Tu, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, En Zhu: *Deep Graph Clustering via Dual Correlation Reduction*. [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/). (CCF Rank A) \[[paper](https://www.researchgate.net/profile/Yue-Liu-240/publication/357271184_Deep_Graph_Clustering_via_Dual_Correlation_Reduction/links/61c466e68bb20101842f9a92/Deep-Graph-Clustering-via-Dual-Correlation-Reduction.pdf)\|[code](https://github.com/yueliu1999/DCRN)]
 
 
 
