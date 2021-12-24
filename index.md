@@ -8,7 +8,10 @@ Yue Liu (刘悦) is now pursuing his master degree in <a href="https://www.nudt.
 
 # News
 
+- **[<font color="#FF0000">2021.12</font>]** I am honored to won the [first-class scholarship of freshman at NUDT](./assets/img/award/Scholarship-NUDT.pdf).
 - **[<font color="#FF0000">2021.12</font>]** "**Deep Graph Clustering via Dual Correlation Reduction**" has been accepted by [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/).
+
+ 
 
  
 
@@ -85,6 +88,7 @@ Coming soon...
 
 # Award
 
+- **[2021]** Scholarship, NUDT. \[[pdf](./assets/img/award/Scholarship-NUDT.pdf)]
 - **[2021]** Excellent Graduated Graduate Student of Hebei Province. \[[pdf](./assets/img/award/Outstanding graduate.pdf)]
 - **[2020]** Recommendation for admission to NUDT.  \[[pdf](./assets/img/award/Recommendation.pdf)]
 - **[2019-2020]** National Scholarship, Ministry of Education of the People’s Republic of China. \[[pdf](./assets/img/award/National Scholarship 2020.pdf)]
