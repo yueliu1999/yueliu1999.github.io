@@ -108,6 +108,7 @@ Coming soon...
 
 - [Sihang Zhou](https://sihangzhou.github.io/)
 - [Wenxuan Tu](https://wxtu.github.io/)
+- [Xihong Yang](https://xihongyang1999.github.io/)
 
 
 
