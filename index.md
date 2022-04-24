@@ -30,14 +30,17 @@ Coming soon...
 
 ### Conferences: 
 
-- **<font color="#0000FF">[AAAI]</font>** **Yue Liu**, Wenxuan Tu, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, En Zhu: *Deep Graph Clustering via Dual Correlation Reduction*. [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/). (CCF Rank A) \[[paper](https://www.researchgate.net/profile/Yue-Liu-240/publication/357271184_Deep_Graph_Clustering_via_Dual_Correlation_Reduction/links/61c466e68bb20101842f9a92/Deep-Graph-Clustering-via-Dual-Correlation-Reduction.pdf)\|[code](https://github.com/yueliu1999/DCRN)]
+- **<font color="#0000FF">[IJCAI 22]</font>** Wenxuan Tu, Sihang Zhou, Xinwang Liu, **Yue Liu**, Zhiping Cai, En Zhu, Changwang Zhang, and Jieren Cheng: *Initializing Then Refining: A Simple Graph Attribute Imputation Network*. [<font color="#2818200">IJCAI 2022</font>](https://ijcai-22.org/calls-papers/#).
+- **<font color="#0000FF">[AAAI 22]</font>** **Yue Liu**, Wenxuan Tu, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, and En Zhu: *Deep Graph Clustering via Dual Correlation Reduction*. [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/). \[[paper](https://www.researchgate.net/profile/Yue-Liu-240/publication/357271184_Deep_Graph_Clustering_via_Dual_Correlation_Reduction/links/61c466e68bb20101842f9a92/Deep-Graph-Clustering-via-Dual-Correlation-Reduction.pdf)\|[code](https://github.com/yueliu1999/DCRN)]
+
+
 
 
 
 ### Under Review: 
 
-- **<font color="#0000FF">[arXiv preprint]</font>** Wenxuan Tu, Sihang Zhou, **Yue Liu**, Xinwang Liu, Xifeng Guo, Zhiping Cai, En Zhu, Changwang Zhang, and Jieren Cheng: *Siamese Attribute-missing Graph Auto-encoder*. \[[paper](https://arxiv.org/pdf/2112.04842.pdf)\]
-- **<font color="#0000FF">[arXiv preprint]</font>** **Yue Liu**, Sihang Zhou, Xinwang Liu, Wenxuan Tu, Xihong Yang: *Improved Dual Correlation Reduction Network*. \[[paper](https://arxiv.org/abs/2202.12533)\]
+- **<font color="#0000FF">[arXiv preprint 22]</font>** **Yue Liu**, Sihang Zhou, Xinwang Liu, Wenxuan Tu, and Xihong Yang: *Improved Dual Correlation Reduction Network*. \[[paper](https://arxiv.org/abs/2202.12533)\]
+- **<font color="#0000FF">[arXiv preprint 21]</font>** Wenxuan Tu, Sihang Zhou, **Yue Liu**, Xinwang Liu, Xifeng Guo, Zhiping Cai, En Zhu, Changwang Zhang, and Jieren Cheng: *Siamese Attribute-missing Graph Auto-encoder*. \[[paper](https://arxiv.org/pdf/2112.04842.pdf)\]
 
 
 
