@@ -11,7 +11,7 @@ Yue Liu (刘悦) is now pursuing his master degree in <a href="https://www.nudt.
 
 
 - **[<font color="#FF0000">2022.04</font>]** "**Initializing Then Refining: A Simple Graph Attribute Imputation Network**" has been accepted by [<font color="#2818200">IJCAI 2022</font>](https://ijcai-22.org/calls-papers/#).
-- **[<font color="#FF0000">2021.12</font>]** I am honored to won the [first-class scholarship of freshman at NUDT](./assets/img/award/Scholarship-NUDT.pdf).
+- **[<font color="#FF0000">2021.12</font>]** I won the [first-class scholarship of freshman at NUDT](./assets/img/award/Scholarship-NUDT.pdf).
 - **[<font color="#FF0000">2021.12</font>]** "**Deep Graph Clustering via Dual Correlation Reduction**" has been accepted by [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/).
 
  
