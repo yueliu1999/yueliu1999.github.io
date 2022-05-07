@@ -41,6 +41,8 @@ Coming soon...
 
 - **<font color="#0000FF">[arXiv preprint 22]</font>** **Yue Liu**, Sihang Zhou, Xinwang Liu, Wenxuan Tu, and Xihong Yang: *Improved Dual Correlation Reduction Network*. \[[paper](https://arxiv.org/abs/2202.12533)\]
 - **<font color="#0000FF">[arXiv preprint 21]</font>** Wenxuan Tu, Sihang Zhou, **Yue Liu**, Xinwang Liu, Xifeng Guo, Zhiping Cai, En Zhu, Changwang Zhang, and Jieren Cheng: *Siamese Attribute-missing Graph Auto-encoder*. \[[paper](https://arxiv.org/pdf/2112.04842.pdf)\]
+- **<font color="#0000FF">[Under Review]</font>** Lei Gong, Wenxuan Tu, **Yue Liu**, Sihang Zhou, Tiantian Xu, Xinwang Liu: *Deep Fusion Clustering Network with Reliable Structure Preservation*.
+- **<font color="#0000FF">[Under Review]</font>** **Yue Liu**, Xihong Yang, Sihang Zhou, Wenxuan Tu, Liang Li, Wenjing Yang, Xinwang Liu: *Simple Contrastive Graph Clustering*.
 
 
 
