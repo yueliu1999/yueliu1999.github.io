@@ -22,7 +22,7 @@ Yue Liu (刘悦) is now pursuing his master degree in <a href="https://www.nudt.
 
 # Publication
 
-For details, please check [publications](another-page.md).
+For details, please check in [publications](./publications).
 
 ### Journals: 
 
