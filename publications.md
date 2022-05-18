@@ -6,6 +6,7 @@
  <table style="text-align: left; height: 20px; width: 700px; margin-left: 16px;" border="0" cellpadding="0"
           cellspacing="2">
  <tbody> 
+
  <tr> 
      <td style="vertical-align: top; width: 300px;"><img style="width: 300px;"
      src="./assets/img/DCRN.png" /> </td> 
@@ -53,6 +54,7 @@
 </tbody> 
 </table>
 </div>
+
 
 
 
