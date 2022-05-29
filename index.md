@@ -77,9 +77,9 @@ Coming soon...
 
 # Intern Experience
 
-- **[2020.8-2021.3]**
+- **[2020.8-2021.3]** [SPEED BOT](https://www.speedbot.net/zh-cn/about)
 
-  3D Vision Algorithm Engineer[[Github](https://github.com/yueliu1999/3d-vision)]
+  3D Vision Algorithm Engineer [[Github](https://github.com/yueliu1999/3d-vision)]
 
 
 
@@ -137,3 +137,6 @@ Coming soon...
 
 
 
+
+
+[https://www.speedbot.net/zh-cn/about]: 
