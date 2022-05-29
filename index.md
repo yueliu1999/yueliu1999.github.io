@@ -2,6 +2,14 @@
 layout: default
 ---
 
+[python-img]: https://img.shields.io/github/languages/top/yueliu1999/Awesome-Deep-Graph-Clustering?color=lightgrey
+[stars-img]: https://img.shields.io/github/stars/yueliu1999/Awesome-Deep-Graph-Clustering?color=yellow
+[stars-url]: https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering/stargazers
+[fork-img]: https://img.shields.io/github/forks/yueliu1999/Awesome-Deep-Graph-Clustering?color=lightblue&label=fork
+[fork-url]: https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering/network/members
+[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=yueliu1999.Awesome-Deep-Graph-Clustering
+[adgc-url]: https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering
+
 # About Me
 
 Yue Liu (刘悦) is now pursuing his master degree in <a href="https://www.nudt.edu.cn/xysz/jsjxy/index.htm">College of Computer Science and Techenology</a>, NUDT. He is supervised by Prof. <a href="https://xinwangliu.github.io/">Xinwang Liu</a> in Pattern Recognition & Machine Intelligence Lab (PRMI). His research interests include graph neural networks, deep clustering and self-supervised learning.
@@ -55,6 +63,11 @@ Coming soon...
 
 - Awesome Deep Graph Clustering \[[Github](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)]
 
+  [![Made with Python][python-img]][adgc-url]
+  [![GitHub stars][stars-img]][stars-url]
+  [![GitHub forks][fork-img]][fork-url]
+  [![visitors][visitors-img]][adgc-url]
+  
   <img src="./assets/img/adgc.png" alt="adgc" style="zoom:30%;" />
 
 
