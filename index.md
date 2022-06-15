@@ -133,6 +133,8 @@ Coming soon...
 
 - [Sihang Zhou](https://sihangzhou.github.io/)
 - [Wenxuan Tu](https://wxtu.github.io/)
+- [Ke Liang](https://liangke23.github.io/)
 - [Xihong Yang](https://xihongyang1999.github.io/)
+- [Feng Xie](https://xiefeng69.github.io/)
 
 
