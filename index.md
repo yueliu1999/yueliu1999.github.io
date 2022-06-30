@@ -18,6 +18,7 @@ Yue Liu (刘悦) is now pursuing his master degree in <a href="https://www.nudt.
 
 
 
+- **[<font color="#FF0000">2022.06</font>]** "**Multiple Kernel Clustering with Dual Noise Minimization**" has been accepted by [<font color="#2818200">ACMMM 2022</font>](https://2022.acmmm.org/).
 - **[<font color="#FF0000">2022.04</font>]** "**Initializing Then Refining: A Simple Graph Attribute Imputation Network**" has been accepted by [<font color="#2818200">IJCAI 2022</font>](https://ijcai-22.org/calls-papers/#).
 - **[<font color="#FF0000">2021.12</font>]** I won the [first-class scholarship of freshman at NUDT](./assets/img/award/Scholarship-NUDT.pdf).
 - **[<font color="#FF0000">2021.12</font>]** "**Deep Graph Clustering via Dual Correlation Reduction**" has been accepted by [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/).
@@ -40,6 +41,7 @@ Coming soon...
 
 ### Conferences: 
 
+- **<font color="#0000FF">[ACMMM 22]</font>** Junpu Zhang, Liang Li, Siwei Wang, Jiyuan Liu, **Yue Liu**, Xinwang Liu, En Zhu: *Multiple Kernel Clustering with Dual Noise Minimization*. [<font color="#2818200">ACMMM 2022</font>](https://2022.acmmm.org/).
 - **<font color="#0000FF">[IJCAI 22]</font>** Wenxuan Tu, Sihang Zhou, Xinwang Liu, **Yue Liu**, Zhiping Cai, En Zhu, Changwang Zhang, and Jieren Cheng: *Initializing Then Refining: A Simple Graph Attribute Imputation Network*. [<font color="#2818200">IJCAI 2022</font>](https://ijcai-22.org/calls-papers/#).
 - **<font color="#0000FF">[AAAI 22]</font>** **Yue Liu**, Wenxuan Tu, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, and En Zhu: *Deep Graph Clustering via Dual Correlation Reduction*. [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/). \[[paper](https://www.researchgate.net/profile/Yue-Liu-240/publication/357271184_Deep_Graph_Clustering_via_Dual_Correlation_Reduction/links/61c466e68bb20101842f9a92/Deep-Graph-Clustering-via-Dual-Correlation-Reduction.pdf)\|[code](https://github.com/yueliu1999/DCRN)]
 
