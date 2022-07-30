@@ -45,7 +45,7 @@ Coming soon...
 - **<font color="#0000FF">[IJCAI 22]</font>** Wenxuan Tu, Sihang Zhou, Xinwang Liu, **Yue Liu**, Zhiping Cai, En Zhu, Changwang Zhang, and Jieren Cheng: *Initializing Then Refining: A Simple Graph Attribute Imputation Network*. [<font color="#2818200">IJCAI 2022</font>](https://ijcai-22.org/calls-papers/#).
 - **<font color="#0000FF">[AAAI 22]</font>** **Yue Liu**, Wenxuan Tu, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, and En Zhu: *Deep Graph Clustering via Dual Correlation Reduction*. [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/). \[[paper](https://www.researchgate.net/profile/Yue-Liu-240/publication/357271184_Deep_Graph_Clustering_via_Dual_Correlation_Reduction/links/61c466e68bb20101842f9a92/Deep-Graph-Clustering-via-Dual-Correlation-Reduction.pdf)\|[code](https://github.com/yueliu1999/DCRN)]
 
-
+  
 
 
 
@@ -87,18 +87,6 @@ Coming soon...
 
 
 
-# Research Interest
-
-- Graph Neural Network
-- Deep Clustering 
-- Self-Supervised Learning
-
-
-
-
-
-
-
 # Education
 
 - **[2021.9-now]** 
@@ -112,6 +100,13 @@ Coming soon...
   B.E. in <a href="https://www.neuq.edu.cn/">NorthEastern University at Qinhuangdao (NEUQ)</a>. 
 
   Supervisor: A.P. Miao Fang
+
+
+
+# Academic Service
+
+- Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
+- AAAI Conference on Artificial Intelligence (AAAI)
 
 
 
@@ -133,10 +128,5 @@ Coming soon...
 
 # Friendship Link
 
-- [Sihang Zhou](https://sihangzhou.github.io/)
-- [Wenxuan Tu](https://wxtu.github.io/)
-- [Ke Liang](https://liangke23.github.io/)
-- [Xihong Yang](https://xihongyang1999.github.io/)
-- [Feng Xie](https://xiefeng69.github.io/)
-
+[Sihang Zhou](https://sihangzhou.github.io/), [Wenxuan Tu](https://wxtu.github.io/), [Ke Liang](https://liangke23.github.io/), [Xihong Yang](https://xihongyang1999.github.io/), [Feng Xie](https://xiefeng69.github.io/)
 
