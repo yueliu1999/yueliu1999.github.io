@@ -105,8 +105,8 @@ Coming soon...
 
 # Academic Service
 
-- Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
-- AAAI Conference on Artificial Intelligence (AAAI)
+- Review for Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
+- Review for AAAI Conference on Artificial Intelligence (AAAI)
 
 
 
