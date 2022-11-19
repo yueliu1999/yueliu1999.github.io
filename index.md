@@ -50,9 +50,9 @@ Coming soon...
 
 - **<font color="#0000FF">[AAAI 23]</font>** Jingcan Duan, Siwei Wang, Pei Zhang, En Zhu, Jingtao Hu, Hu Jin, **Yue Liu**, Zhibin Dong: *Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View*. [<font color="#2818200">AAAI 2023</font>](https://aaai.org/Conferences/AAAI-23/).
 
-- **<font color="#0000FF">[ACMMM 22]</font>** Junpu Zhang, Liang Li, Siwei Wang, Jiyuan Liu, **Yue Liu**, Xinwang Liu, En Zhu: *Multiple Kernel Clustering with Dual Noise Minimization*. [<font color="#2818200">ACMMM 2022</font>](https://2022.acmmm.org/).
+- **<font color="#0000FF">[ACMMM 22]</font>** Junpu Zhang, Liang Li, Siwei Wang, Jiyuan Liu, **Yue Liu**, Xinwang Liu, En Zhu: *Multiple Kernel Clustering with Dual Noise Minimization*. [<font color="#2818200">ACMMM 2022</font>](https://2022.acmmm.org/). \[[paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548334?casa_token=pGTXauPxBUQAAAAA:ZIM4gMODsHzB9meKHs73qfScsB1Po3oTgJZEEp4kJyc9SiAmfYzs5SJVyrFc-dPK_1N-ZdJq_ddDZQ)\|[code](https://github.com/liliangnudt/MKCDNM)]
 
-- **<font color="#0000FF">[IJCAI 22]</font>** Wenxuan Tu, Sihang Zhou, Xinwang Liu, **Yue Liu**, Zhiping Cai, En Zhu, Changwang Zhang, and Jieren Cheng: *Initializing Then Refining: A Simple Graph Attribute Imputation Network*. [<font color="#2818200">IJCAI 2022</font>](https://ijcai-22.org/calls-papers/#).
+- **<font color="#0000FF">[IJCAI 22]</font>** Wenxuan Tu, Sihang Zhou, Xinwang Liu, **Yue Liu**, Zhiping Cai, En Zhu, Changwang Zhang, and Jieren Cheng: *Initializing Then Refining: A Simple Graph Attribute Imputation Network*. [<font color="#2818200">IJCAI 2022</font>](https://ijcai-22.org/calls-papers/#). \[[paper](https://github.com/WxTu/ITR/blob/master/ITR-final.pdf)\|[code](https://github.com/WxTu/ITR)]
 
 - **<font color="#0000FF">[AAAI 22]</font>** **Yue Liu**, Wenxuan Tu, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, and En Zhu: *Deep Graph Clustering via Dual Correlation Reduction*. [<font color="#2818200">AAAI 2022</font>](https://aaai.org/Conferences/AAAI-22/). \[[paper](https://www.researchgate.net/profile/Yue-Liu-240/publication/357271184_Deep_Graph_Clustering_via_Dual_Correlation_Reduction/links/61c466e68bb20101842f9a92/Deep-Graph-Clustering-via-Dual-Correlation-Reduction.pdf)\|[code](https://github.com/yueliu1999/DCRN)]
 
