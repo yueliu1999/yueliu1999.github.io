@@ -36,6 +36,48 @@
       position: relative;
       top: 10px;
     }
+    .category-btn {
+      padding: 8px 16px;
+      margin: 5px;
+      border: 1px solid #0067c8;
+      background-color: white;
+      color: #0067c8;
+      cursor: pointer;
+      border-radius: 4px;
+      font-size: 14px;
+      transition: all 0.3s ease;
+    }
+    .category-btn:hover {
+      background-color: #f0f7ff;
+    }
+    .category-btn.active {
+      background-color: #0067c8;
+      color: white;
+    }
+    .paper-row {
+      transition: opacity 0.3s ease;
+    }
+    .paper-row.hidden {
+      display: none;
+    }
+    .paper-tag {
+      float: right;
+      padding: 3px 8px;
+      margin-left: 12px;
+      background-color: #0067c8;
+      color: white;
+      border-radius: 3px;
+      font-size: 11px;
+      font-weight: normal;
+      vertical-align: middle;
+    }
+    .author-link {
+      color: inherit;
+      text-decoration: none;
+    }
+    .author-link:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 
@@ -141,12 +183,30 @@
               <heading>Research</heading>
               
               <p>
-		My research mainly focuses on self-supervised learning and its applications in graph learning (e.g., graph clustering, KG embedding), foundation models (e.g., LLMs, MLLMs), recommendation systems, code intelligence, and bioinformatics.
-                <br> * denotes equal contributions. The selected papers are listed as follows.
-
-
-<!-- 		      The representative papers are <span class="highlight">highlighted</span>. -->
+                My research mainly focuses on self-supervised learning and its applications in the following areas:
               </p>
+              <ul>
+                <li>Foundation Models (e.g., intelligence & safety of LLMs, MLLMs, and agentic models)</li>
+                <li>Graph Learning (e.g., graph clustering, knowledge graph embedding, and recommendation systems)</li>
+              </ul>
+
+
+
+
+              
+              <div style="margin-bottom: 20px;">
+                <button class="category-btn active" data-category="all" onclick="filterPapers('all')">All</button>
+                <button class="category-btn" data-category="foundation-models" onclick="filterPapers('foundation-models')">Intelligence of Foundation Models</button>
+                <button class="category-btn" data-category="llm-safety" onclick="filterPapers('llm-safety')">Safety of Foundation Models</button>
+                
+                <span style="white-space: nowrap; display: inline-block;">
+                  <button class="category-btn" data-category="graph-clustering" onclick="filterPapers('graph-clustering')">Graph Clustering</button>
+                  <button class="category-btn" data-category="recommendation" onclick="filterPapers('recommendation')">Recommendation Systems</button>
+                  <button class="category-btn" data-category="knowledge-graph" onclick="filterPapers('knowledge-graph')">Knowledge Graph Embedding</button>
+                </span>
+              </div>
+              * denotes equal contributions. The selected papers are listed as follows.
+            
             </td>
           </tr>
         </tbody></table>
@@ -155,8 +215,146 @@
 <!--        paper_list-->
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
+
+
+                    <!--------------------------------------------------------------------------------------------------------------------------->
+                    <tr class="paper-row" data-category="llm-safety">
+                      <!-- 		    bgcolor="#ffffd0" -->
+                      <!--              -->
+                                  <td style="padding:20px;width:25%;vertical-align:middle">
+                                    <div class="one">
+                                      <img src='images/guardreaonser_omni.png' width="160">
+                                    </div>
+                                  </td>
+                                  <td style="padding:20px;width:75%;vertical-align:middle">
+                                    <a href="https://arxiv.org/abs/2602.03328">
+                                      <papertitle style="font-size: 0.92em;">GuardReasoner-Omni: A Reasoning-based Multi-modal Guardrail for Text, Image, and Video</papertitle>
+                                    </a>
+                                    <br>
+                                    Zhenhao Zhu*, <strong>Yue Liu*</strong>, Yanpei Guo, Wenjie Qu, Cancan Chen, Yufei He, Yibo Li, Yulin Chen, Tianyi Wu, Huiying Xu, Xinzhong Zhu, Jiaheng Zhang
+                                    <br>
+                                    <em>arXiv</em>, 2026
+                                    <br>
+                                    <a href="https://arxiv.org/abs/2602.03328">Paper</a>
+                                    /
+                                    <a href="https://github.com/zzh-thu-22/GuardReasoner-Omni">Code</a>
+                                    /
+                                    <a href="https://huggingface.co/zhu-thu-22/GuardReasoner-Omni-2B">Model</a>
+                                    <p></p>
+                                      <p style="text-align:justify">
+
+
+                                        We introduce a new reasoning-based multimodal guardrail model termed GuardReasoner-Omni that moderates text, image, and video content by training on a comprehensive multimodal corpus and outperforming prior baselines across guardrail benchmarks.
+
+                                      </p>
+                                  </td>
+                                </tr>
+                      <!--------------------------------------------------------------------------------------------------------------------------->
+              
+
+                                  
+
+                      <!--------------------------------------------------------------------------------------------------------------------------->
+                      <tr class="paper-row" data-category="foundation-models">
+                        <!-- 		    bgcolor="#ffffd0" -->
+                        <!--              -->
+                                    <td style="padding:20px;width:25%;vertical-align:middle">
+                                      <div class="one">
+                                        <img src='images/kimi_k25.png' width="160">
+                                      </div>
+                                    </td>
+                                    <td style="padding:20px;width:75%;vertical-align:middle">
+                                      <a href="https://arxiv.org/abs/2602.02276">
+                                        <papertitle>Kimi K2.5: Visual Agentic Intelligence </papertitle>
+                                      </a>
+                                      <br>
+                                        <strong>Kimi Team</strong>
+                                      <br>
+                                      <em>Tech Report</em>, 2026
+                                      <br>
+                                      <a href="https://arxiv.org/abs/2602.02276">Paper</a>
+                                      /
+                                      <a href="https://huggingface.co/moonshotai/Kimi-K2.5">Model</a>
+                                      <p></p>
+                                        <p style="text-align:justify">
+
+
+                                          Kimi K2.5 presents an open, multi-modal, agentic LLM that achieves strong general intelligence in agentic search, coding, and multi-modal tasks. My contribution is leading to improve extremely long-horizon coding ability, e.g., PaperBench, by data scaling, SFT, and RL.
+
+                                       </p>
+                                    </td>
+                                  </tr>
+                        <!--------------------------------------------------------------------------------------------------------------------------->
+                
+          
+                        
+
+                              <!--------------------------------------------------------------------------------------------------------------------------->
+        <tr class="paper-row" data-category="foundation-models">
+          <!-- 		    bgcolor="#ffffd0" -->
+          <!--              -->
+                      <td style="padding:20px;width:25%;vertical-align:middle">
+                        <div class="one">
+                          <img src='images/tb.png' width="160">
+                        </div>
+                      </td>
+                      <td style="padding:20px;width:75%;vertical-align:middle">
+                        <a href="https://arxiv.org/abs/2601.11868">
+                          <papertitle style="font-size: 0.98em;">Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces</papertitle>
+                        </a>
+                        <br>
+                          <strong>Terminal Team</strong>
+                        <br>
+                        <em>ICLR</em>, 2026
+                        <br>
+                        <a href="https://arxiv.org/abs/2601.11868">Paper</a>
+                        /
+                        <a href="https://www.tbench.ai/">Homepage</a>
+                        <p></p>
+                          <p style="text-align:justify">
+                            Terminal-Bench introduces a realistic command-line benchmark showing that current AI agents still struggle with complex, long-horizon CLI workflows.
+                            My contributions focus on proposing and implementing the tasks in Terminal-Bench.
+                         </p>
+                      </td>
+                    </tr>
+          <!--------------------------------------------------------------------------------------------------------------------------->
+  
+          
+
+
+                      <!--------------------------------------------------------------------------------------------------------------------------->
+        <tr class="paper-row" data-category="foundation-models">
+          <!-- 		    bgcolor="#ffffd0" -->
+          <!--              -->
+                      <td style="padding:20px;width:25%;vertical-align:middle">
+                        <div class="one">
+                          <img src='images/kimi_k2.png' width="160">
+                        </div>
+                      </td>
+                      <td style="padding:20px;width:75%;vertical-align:middle">
+                        <a href="https://arxiv.org/abs/2507.20534">
+                          <papertitle>Kimi K2: Open Agentic Intelligence</papertitle>
+                        </a>
+                        <br>
+                          <strong>Kimi Team</strong>
+                        <br>
+                        <em>Tech Report</em>, 2025
+                        <br>
+                        <a href="https://arxiv.org/abs/2507.20534">Paper</a>
+                        /
+                        <a href="https://huggingface.co/moonshotai/Kimi-K2-Instruct">Model</a>
+                        <p></p>
+                          <p style="text-align:justify">
+                            Kimi K2 presents an open, agentic LLM that achieves strong general intelligence in coding, tool-use, and math. My contributions focus on improving agentic coding ability, including leading PaperBench evaluation and engaging in Docker scaling and scaffold scaling.
+                         </p>
+                      </td>
+                    </tr>
+          <!--------------------------------------------------------------------------------------------------------------------------->
+  
+          
+
                                 <!--------------------------------------------------------------------------------------------------------------------------->
-        <tr>
+        <tr class="paper-row" data-category="llm-safety">
           <!-- 		    bgcolor="#ffffd0" -->
           <!--              -->
                       <td style="padding:20px;width:25%;vertical-align:middle">
@@ -216,7 +414,7 @@
   
 
                       <!--------------------------------------------------------------------------------------------------------------------------->
-        <tr>
+        <tr class="paper-row" data-category="foundation-models">
           <!-- 		    bgcolor="#ffffd0" -->
           <!--              -->
                       <td style="padding:20px;width:25%;vertical-align:middle">
@@ -255,7 +453,7 @@
   
           
                             <!--------------------------------------------------------------------------------------------------------------------------->
-        <tr>
+        <tr class="paper-row" data-category="foundation-models">
           <!-- 		    bgcolor="#ffffd0" -->
           <!--              -->
                       <td style="padding:20px;width:25%;vertical-align:middle">
@@ -297,7 +495,7 @@
 
           
             <!--------------------------------------------------------------------------------------------------------------------------->
-        <tr>
+        <tr class="paper-row" data-category="llm-safety">
           <!-- 		    bgcolor="#ffffd0" -->
           <!--              -->
                       <td style="padding:20px;width:25%;vertical-align:middle">
@@ -343,7 +541,7 @@
 
 
             <!--------------------------------------------------------------------------------------------------------------------------->
-        <tr>
+        <tr class="paper-row" data-category="llm-safety">
           <!-- 		    bgcolor="#ffffd0" -->
           <!--              -->
                       <td style="padding:20px;width:25%;vertical-align:middle">
@@ -380,7 +578,7 @@
   
 
         <!--------------------------------------------------------------------------------------------------------------------------->
-        <tr>
+        <tr class="paper-row" data-category="recommendation">
           <!-- 		    bgcolor="#ffffd0" -->
           <!--              -->
                       <td style="padding:20px;width:25%;vertical-align:middle">
@@ -415,7 +613,7 @@
   
                                         
 		                        <!--------------------------------------------------------------------------------------------------------------------------->
-            <tr>
+            <tr class="paper-row" data-category="recommendation">
 <!-- 		    bgcolor="#ffffd0" -->
 <!--              -->
             <td style="padding:20px;width:25%;vertical-align:middle">
@@ -455,7 +653,7 @@
 <!--------------------------------------------------------------------------------------------------------------------------->
 		
 				                <!--------------------------------------------------------------------------------------------------------------------------->
-            <tr>
+            <tr class="paper-row" data-category="graph-clustering">
 <!--              -->
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
@@ -492,7 +690,7 @@
 		
 
                 <!--------------------------------------------------------------------------------------------------------------------------->
-            <tr>
+            <tr class="paper-row" data-category="graph-clustering">
 <!--              -->
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
@@ -513,7 +711,7 @@
 
 		    
               <br>
-              <em>ICLR</em>, 2024; Selected as <font color="red">Best Paper of China Computational Power Conference</font>, 2024.
+              <em>ICLR</em>, 2024.
               <br>
               <a href="https://arxiv.org/pdf/2305.10738">Paper</a>
               /
@@ -525,10 +723,11 @@
               </p>
             </td>
           </tr>
+          
 <!--------------------------------------------------------------------------------------------------------------------------->
 
         <!--------------------------------------------------------------------------------------------------------------------------->
-            <tr>
+            <tr class="paper-row" data-category="foundation-models">
 <!--              -->
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
@@ -564,7 +763,7 @@
           </tr>
 
                         <!--------------------------------------------------------------------------------------------------------------------------->
-            <tr>
+            <tr class="paper-row" data-category="graph-clustering">
 <!--              -->
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
@@ -599,7 +798,7 @@
 <!--------------------------------------------------------------------------------------------------------------------------->
 
 <!--------------------------------------------------------------------------------------------------------------------------->
-            <tr>
+            <tr class="paper-row" data-category="knowledge-graph">
 <!--              -->
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
@@ -633,7 +832,7 @@
           </tr>
 <!--------------------------------------------------------------------------------------------------------------------------->
 
-            <tr>
+            <tr class="paper-row" data-category="graph-clustering">
 <!-- 		     bgcolor="#ffffd0" -->
 <!--              -->
             <td style="padding:20px;width:25%;vertical-align:middle">
@@ -668,7 +867,7 @@
           </tr>
 <!--------------------------------------------------------------------------------------------------------------------------->
 
-            <tr>
+            <tr class="paper-row" data-category="graph-clustering">
 <!--              -->
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
@@ -706,7 +905,7 @@
 <!--------------------------------------------------------------------------------------------------------------------------->
 
 <!--------------------------------------------------------------------------------------------------------------------------->
-            <tr >
+            <tr class="paper-row" data-category="graph-clustering">
 <!-- 		    bgcolor="#ffffd0" -->
 <!--              -->
             <td style="padding:20px;width:25%;vertical-align:middle">
@@ -747,7 +946,7 @@
 
 <!--------------------------------------------------------------------------------------------------------------------------->
 
-            <tr>
+            <tr class="paper-row" data-category="graph-clustering">
 <!--              -->
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
@@ -784,7 +983,7 @@
 
 
 
-          <tr >
+          <tr class="paper-row" data-category="graph-clustering">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <img src='images/DCRN.png' width="160">
@@ -926,6 +1125,96 @@
               document.querySelector('#projects-box').style.paddingBottom = '0px';
               document.querySelector('#projects-show-text').innerHTML = 'More';
             }
+          }
+          
+          function filterPapers(category) {
+            // Update button states
+            const buttons = document.querySelectorAll('.category-btn');
+            buttons.forEach(btn => {
+              if (btn.getAttribute('data-category') === category) {
+                btn.classList.add('active');
+              } else {
+                btn.classList.remove('active');
+              }
+            });
+            
+            // Filter papers
+            const papers = document.querySelectorAll('.paper-row');
+            papers.forEach(paper => {
+              if (category === 'all' || paper.getAttribute('data-category') === category) {
+                paper.classList.remove('hidden');
+              } else {
+                paper.classList.add('hidden');
+              }
+            });
+          }
+          
+          // Style author links to look like plain text
+          function styleAuthorLinks() {
+            const papers = document.querySelectorAll('.paper-row');
+            papers.forEach(paper => {
+              const paperTd = paper.querySelectorAll('td')[1];
+              if (paperTd) {
+                const allLinks = paperTd.querySelectorAll('a');
+                allLinks.forEach(link => {
+                  const text = link.textContent.trim();
+                  // Check if it's an author link (not Paper/Code/Model/Data/Homepage or papertitle)
+                  if (text !== 'Paper' && text !== 'Code' && text !== 'Model' && text !== 'Data' && text !== 'Homepage' &&
+                      !link.querySelector('papertitle') &&
+                      !text.includes('arxiv.org') && !text.includes('github.com') && 
+                      !text.includes('huggingface.co')) {
+                    link.classList.add('author-link');
+                  }
+                });
+              }
+            });
+          }
+          
+          // Add tags to papers at the conference/venue line
+          function addPaperTags() {
+            const categoryMap = {
+              'llm-safety': 'Safety of Foundation Models',
+              'foundation-models': 'Intelligence of Foundation Models',
+              'graph-clustering': 'Graph Clustering',
+              'knowledge-graph': 'Knowledge Graph Embedding',
+              'recommendation': 'Recommendation Systems'
+            };
+            
+            const papers = document.querySelectorAll('.paper-row');
+            papers.forEach(paper => {
+              const category = paper.getAttribute('data-category');
+              if (category && categoryMap[category]) {
+                const paperTd = paper.querySelectorAll('td')[1];
+                if (paperTd) {
+                  const existingTag = paperTd.querySelector('.paper-tag');
+                  if (!existingTag) {
+                    // Find the venue line - look for <em> tag (venue name)
+                    const emTag = paperTd.querySelector('em');
+                    
+                    if (emTag) {
+                      const tag = document.createElement('span');
+                      tag.className = 'paper-tag';
+                      tag.textContent = categoryMap[category];
+                      
+                      // Insert tag BEFORE the em tag so float:right puts it on the same line
+                      emTag.parentNode.insertBefore(tag, emTag);
+                    }
+                  }
+                }
+              }
+            });
+          }
+          
+          // Call when page loads
+          function initPapers() {
+            styleAuthorLinks();
+            addPaperTags();
+          }
+          
+          if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initPapers);
+          } else {
+            initPapers();
           }
         </script>
 </body>
