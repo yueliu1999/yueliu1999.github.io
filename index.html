@@ -1194,8 +1194,8 @@
                 const allLinks = paperTd.querySelectorAll('a');
                 allLinks.forEach(link => {
                   const text = link.textContent.trim();
-                  // Check if it's an author link (not Paper/Code/Model/Data/Homepage or papertitle)
-                  if (text !== 'Paper' && text !== 'Code' && text !== 'Model' && text !== 'Data' && text !== 'Homepage' &&
+                  // Check if it's an author link (not Paper/Code/Model/Data/Homepage/Project or papertitle)
+                  if (text !== 'Paper' && text !== 'Code' && text !== 'Model' && text !== 'Data' && text !== 'Homepage' && text !== 'Project' &&
                       !link.querySelector('papertitle') &&
                       !text.includes('arxiv.org') && !text.includes('github.com') && 
                       !text.includes('huggingface.co')) {
